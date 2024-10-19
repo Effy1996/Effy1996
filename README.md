@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Effy1996
 - 👀 I’m interested in anything that involves solving puzzles/ challenges
-- 🌱 I’m currently learning Vanilla JavaScript
+- 🌱 I am confident to say I am a full-stack developer
 - 💞️ I’m looking to collaborate on different front-end development projects
 - 📫 How to reach me: Email me - akinyieffy07@gmail.com.
-- 😄 Pronouns: Unique  
+- 😄 Pronouns: She/her 
 - ⚡ Fun fact: I love Jesus!!!!
 
 <!---
